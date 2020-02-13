@@ -2,4 +2,4 @@
 Dream Next Club 1기 교육
 
 
-### 
+### 차례
