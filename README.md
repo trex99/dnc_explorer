@@ -32,23 +32,25 @@ Dream Next Club Explorer 교육
 
 ## 5일차
 - ReactNative 개발 실전 - 1
-  . 프로젝트 시작과 네비게이션
-  . 화면 종류와 생성방법(Blank, Tab,,,)
-    가. 날씨 앱
+  * 프로젝트 시작과 네비게이션
+  * 화면 종류와 생성방법(Blank, Tab,,,)
+    - 날씨 앱
 
 ## 6일차
 - ReactNative 개발 실전 – 2
-  . Firebase를 활용한 PUSH 메시지와 Props
-    가. Push 매세지 앱
+  * Firebase를 활용한 PUSH 메시지와 Props
+    - Push 매세지 앱
 
 ## 7일차
 - ReactNative 개발 실전 – 3
-  . 색 다른 컴포넌트 도전 (다 같이 헤딩해요)
-    가. 문제를 대하는 자세와 해결방법
+  * 색 다른 컴포넌트 도전 (다 같이 헤딩해요)
+    - 문제를 대하는 자세와 해결방법
 
 ## 8일차
 - 앱 배포
-  . Play Store 배포 (안드로이드)
-  . App Store 배포 (iOS)
-  . 기업 내부 배포 (안드로이드, iOS)
+  * Play Store 배포 (안드로이드)
+  * App Store 배포 (iOS)
+  * 기업 내부 배포 (안드로이드, iOS)
+
+
 
