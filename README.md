@@ -1,5 +1,8 @@
 # DNC_Explorer
 Dream Next Club Explorer 교육
+https://github.com/TREX99/dnc_explorer/blob/master/%EA%B5%90%EC%9C%A1%EA%B3%84%ED%9A%8D_20200203.pptx
+(교육 계획서 다운로드)
+
 
 # 일자별 교육 계획
 
